@@ -10,7 +10,7 @@
 | Verify Pyenv installation                       | `pyenv --version`                        |
 | View Available versions for Pyenv               | `pyenv install --list`                        |
 | Install pythibg version from the list above     | `pyenv install 3.9.10`                        |
-| Check on the installed pyenv                    | 'pyenv versions' |
+| Check on the installed pyenv                    | `pyenv versions` |
 
 <br>
 
