@@ -5,3 +5,4 @@ Go to resource for quick and easy setup and configuration guides for essential d
 ## Table of Contents
 
 - [Pyenv Cheatsheet](https://github.com/karmasta13/Cheatsheet/blob/main/pyenv.md)
+- [Git Cheatsheet](https://github.com/karmasta13/cheatsheet/blob/main/git.md)
